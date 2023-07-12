@@ -13,12 +13,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Link to my solution](https://imgur.com/a/4ggZEjI)
+![https://imgur.com/a/4ggZEjI](Solution's preview)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://codnova.github.io/frontend-mentor-QR-Code/)
 
 ### Built with
 
